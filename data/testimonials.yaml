@@ -1,0 +1,55 @@
+testimonials:
+  - avatar: /images/admin/avatar1.png
+    name: Ilham
+    message: >-
+      Furniture dari creativedesigninterior.com sangat membantu untuk proyek
+      interior saya. Pengiriman tepat waktu dan kualitasnya memuaskan.
+    response: >-
+      Kami sangat menghargai ulasan Anda. Terima kasih telah mempercayakan
+      kebutuhan furniture Anda kepada kami!
+    rating: 5
+  - avatar: /images/admin/avatar2.png
+    name: Reni
+    message: >-
+      Saya puas dengan layanan creativedesigninterior.com yang ramah. Produk
+      yang saya beli berkualitas tinggi untuk proyek saya.
+    response: >-
+      Kami sangat menghargai ulasan Anda. Senang mendengar bahwa Anda puas
+      dengan produk dan layanan kami.
+    rating: 5
+  - avatar: /images/admin/avatar3.png
+    name: Toni
+    message: >-
+      Saya memesan furniture untuk proyek rumah saya, dan layanannya memuaskan.
+      Pengirimannya rapi.
+    response: >-
+      Terima kasih! Kami berkomitmen untuk memberikan layanan terbaik bagi
+      setiap proyek, termasuk proyek Anda.
+    rating: 4
+  - avatar: /images/admin/avatar4.png
+    name: Agus
+    message: >-
+      Saya sangat puas dengan layanan furniture dari creativedesigninterior.com.
+      Prosesnya mudah dan mempercepat pengerjaan proyek saya.
+    response: >-
+      Senang mendengar Anda puas dengan hasilnya. Terima kasih atas
+      kepercayaannya dalam menggunakan layanan kami.
+    rating: 5
+  - avatar: /images/admin/avatar5.png
+    name: Lina
+    message: >-
+      creativedesigninterior.com memberikan solusi tepat untuk proyek saya.
+      Produk yang saya beli terbaik, dan layanannya profesional.
+    response: >-
+      Terima kasih! Kami senang dapat membantu mewujudkan proyek Anda dengan
+      produk interior terbaik.
+    rating: 5
+  - avatar: /images/admin/avatar6.png
+    name: Dani
+    message: >-
+      Saya memesan furniture untuk kantor, dan hasilnya sangat memuaskan.
+      Layanan creativedesigninterior.com terpercaya.
+    response: >-
+      Kami senang mendengar bahwa Anda puas dengan layanan kami. Terima kasih
+      atas ulasannya!
+    rating: 5

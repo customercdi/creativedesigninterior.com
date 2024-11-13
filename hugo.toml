@@ -1,0 +1,379 @@
+baseURL = "https://www.creativedesigninterior.com/"
+languageCode = "id"
+title = "Creative Design Interior | Harga Jual Material Pasir Batu Kali Split Urugan Makadam Limestone Baja Ringan Bondek Wiremesh Besi Beton Jasa Kitchen Set Meja Lemari Dipan Credenza TV Las Rolling door Tralis Jendela Jasa Pengecoran Lantai Jakarta Bogor Tangerang Depok Bekasi Cikarang Purwakarta Sukabumi Bandung Serang Cirebon"
+theme = "saeseen-hugo"
+summaryLength = 25
+paginate = 6
+
+[permalinks]
+  post = "/:slug/"
+  page = "/:slug/"
+  category = "/:slug/"
+
+[params]
+  # Site-wide settings
+  meta_description = "Kami Jual material alam Pasir Cor, Pasir Pasang, Pasir Plester, Batu Belah, Batu Split, Batu Bata, Batako, Hebel, Urugan Makadam, Sirdam, Basecose, Sirtu, Tanah dan Jual Material Besi, Baja Ringan, Bondek juga Wiremesh"
+  viewport = "width=device-width, initial-scale=1.0"
+  fontawesome = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+  logo = "/images/logo/logo-CDI.png"
+  logo_amp = "/images/logo/logo-cdi-512-512.png"
+  footer_logo = "/images/logo/logo-CDI-putih.png"
+  favicon = "/images/logo/Logo-CDI-favicon.jpg"
+  featured_image = "/images/admin/featured-image.png"
+  author = "Ibnu Koesnady"
+  telepon = "//+6285776786091"
+  whatsapp = "//api.whatsapp.com/send?phone=6285776786091&text=*Halo creativedesigninterior.com*%20%3A"
+  enableWhatApps = true
+  enableTelepon = true
+  tocMinWordCount = 300
+  tableOfContent = "Daftar Isi:"
+  geo_latitude = -6.595038
+  geo_longitude = 106.817787
+  opening_hours = "Mo-Sa 08:00-17:00"
+  
+  # Informasi Perusahaan
+  companyName = "creativedesigninterior.com"
+  aboutUs = "Kami adalah Perusahaan Jasa Kitchen Set dan Jasa Pembuatan Funiture Interior lainnya, Jasa Pengecoran, Jasa Bangun Rumah, juga Menjual Bahan bangunan, sperti; Pasir, Split, Batu Belah, Bata Merah, Batako, Hebel"
+
+  # Informasi Kontak
+  phone = "0857-7678-6091"
+  email = "customercdi@gmail.com"
+  address = "Jl. Sersan Muhtar Dramaga, Bogor – Jabar"
+  whatsappNumber = "6285776786091"
+
+  # Schema settings
+  base_price = 850000
+  price_range = 3000000
+  categories = ["Kitchen Set", "Lemari", "Meja", "Kursi", "Pintu Aluminium", "Kanopi", "Pagar Besi", "Teralis"]
+  payment_methods = ["COD (Cash On Delivery)", "Transfer Bank", "Bayar DP 50%", "Transfer Setelah Terkirim", "Bayar Bertahap", "Transfer Setelah Selesai"]
+  area_served = ["Jakarta", "Bogor", "Depok", "Tangerang", "Bekasi", "Cikarang", "Karawang", "Bandung", "Serang", "Purwakarta", "Cilegon", "Cikampek", "Subang", "Rangkas Bitung"]
+  keywords = ["interior rumah", "kitchen set minimalis", "lemari custom", "meja kerja", "pintu aluminium", "kanopi minimalis", "pagar besi", "teralis jendela", "furniture custom", "interior desain"]
+  free_shipping = true
+
+  # Product
+  materials = [
+    "Kitchen set minimalis",
+    "Lemari custom dan builtin",
+    "Meja kerja dan meja makan",
+    "Kursi dan sofa custom",
+    "Readymix Concrete",
+    "Pasir bangunan",
+    "Batu kali pondasi",
+    "Rak buku dan kabinet",
+    "Material urugan",
+    "Bata Hebel Merah Batako",
+    "Batu koral batu split",
+    "Sirtu Sirdam Makadam Kapur"
+  ]
+  return_policies = [
+    "Produk dapat dikembalikan jika tidak sesuai spesifikasi dalam 1 hari.",
+    "Pengembalian gratis untuk produk dengan cacat produksi.",
+    "Produk yang tidak sesuai pesanan dapat dikembalikan tanpa biaya tambahan."
+  ]
+
+  # Service
+  service_types = [
+    "Pembuatan dan pemasangan kitchen set",
+    "Pembuatan lemari custom",
+    "Pembuatan meja dan furniture lainnya",
+    "Jasa pengecoran jalan",
+    "Sewakan alat cor",
+    "Jasa renovasi dan bangun rumah",
+    "Jasa pengurugan dan timbunan"
+  ]
+  cancellation_policies = [
+    "Pesanan dan layanan jasa dapat dibatalkan sebelum pengerjaan dimulai.",
+    "Biaya jasa tidak dapat dikembalikan jika pembatalan dilakukan setelah pengerjaan mencapai 20%.",
+    "Pengembalian DP hanya berlaku untuk jasa yang belum dikerjakan."
+  ]
+  service_output = "Produk dan jasa diberikan sesuai dengan spesifikasi dan kesepakatan yang telah disetujui."
+
+  # Hero Section
+  hero_image = "/images/admin/bg_creative_design.png"
+  hero_title = "Solusi Interior dan Furniture Custom Berkualitas"
+  hero_description = "Kami menyediakan layanan desain interior dan pembuatan furniture custom, mulai dari kitchen set, lemari, meja, hingga kanopi dan pagar besi. Solusi terbaik untuk kebutuhan desain dan kenyamanan ruang Anda."
+  hero_cta_text = "Lihat Produk Kami"
+  services_cta_text = "Cek Daftar Harga"
+
+  # Footer Section
+  footer_about_title = "Tentang Kami"
+  footer_about_description = "Kami adalah Perusahaan Jasa Kitchen Set dan Jasa Pembuatan Funiture Interior lainnya, Jasa Pengecoran, Jasa Bangun Rumah, juga Menjual Bahan bangunan, sperti: Pasir, Split, Batu Belah, Bata Merah, Batako Hebel dengan jangkauan oprasional seluruh wil di JABODETABEK: jakarta, bogor, depok, tangerang, bekasi, Cikarang, Karawang, Lemah abang, Cikampek, Purwakarta, Sukabumi, Cianjur, Garut, Tasik, Bandung dan Banten."
+
+  footer_services_title = "Kenapa Pilih Kami"
+  footer_contact_title = "Kontak Kami"
+  footer_bottom_text = "@2024 creativedesigninterior.com. Semua Hak Dilindungi."
+
+  # Testimonials Section
+  testimonials_title = "Apa Kata Klien Kami"
+
+  [[params.footer_services]]
+  text = "Kami berpengalaman lebih dari 10 tahun sebagai Jasa Kitchen Set dan Pembuatan Furniture Interior, Lemari, Meja, Dipan, Jasa Bangunan Rumah, Gedung Pabrik dan Sebagai Supplier Bahan Bangunan, baik material alam, besi atau material lainnya. Sehingga pengalaman kami akan membawa anda mendapatkan layanan terbaik saat ini."
+
+  [[params.footer_contact]]
+    icon = "fas fa-map-marker-alt"
+    text = "Jl. Sersan Muhtar Dramaga, Bogor – Jabar"
+  [[params.footer_contact]]
+    icon = "fas fa-map-marker-alt"
+    text = "Kp. Cijantra Jatake, Tangerang – Banten"
+  [[params.footer_contact]]
+    icon = "fas fa-map-marker-alt"
+    text = "Jl. Raya Cikarang Cibarusah, Bekasi – Jabar"
+  [[params.footer_contact]]
+    icon = "fas fa-map-marker-alt"
+    text = "Jl. Maritim Raya, Pelabuhan Sunda kelapa, Penjaringan – Jakarta Utara."
+  [[params.footer_contact]]
+    icon = "fas fa-phone-alt"
+    text = "+62 857-7678-6091"
+  [[params.footer_contact]]
+    icon = "fas fa-envelope"
+    text = "customercdi@gmail.com"
+
+[[params.testimonials]]
+  avatar = "/images/admin/avatar1.png"
+  name = "{Agus|Dani|Rahmat|Yusuf|Toni|Rian|Farhan|Fadli|Ilham|Reza}"
+  message = "{Saya memesan furniture dari creativedesigninterior.com untuk {ruang tamu|ruang kerja|dapur}. Prosesnya {mudah|cepat|teratur} dan kualitasnya {luar biasa|memuaskan|terbaik}.|Furniture dari creativedesigninterior.com sangat {membantu|bermanfaat} untuk proyek interior saya. {Pengiriman|Layanan} tepat waktu dan kualitasnya {baik|memuaskan|sesuai harapan}.}"
+  response = "{Terima kasih atas kepercayaan Anda! Kami {senang|bangga} dapat mendukung proyek interior Anda dengan produk berkualitas.|Kami sangat menghargai ulasan Anda. Terima kasih telah mempercayakan kebutuhan furniture Anda kepada kami!}"
+  rating = 5
+
+[[params.testimonials]]
+  avatar = "/images/admin/avatar2.png"
+  name = "{Lina|Rara|Tina|Maya|Sinta|Fina|Reni|Aulia|Dina|Ari}"
+  message = "{Creativedesigninterior.com sangat {membantu|memuaskan} dalam proyek {rumah|kantor|kafe} saya. Layanan mereka {profesional|ramah|terpercaya}, dan kualitas furniture sesuai dengan kebutuhan.|Saya puas dengan layanan creativedesigninterior.com yang {profesional|efisien|ramah}. Produk yang saya beli {berkualitas tinggi|sangat sesuai} untuk proyek saya.}"
+  response = "{Kami sangat menghargai ulasan Anda. Senang mendengar bahwa Anda puas dengan produk dan layanan kami.|Terima kasih atas kepercayaannya. Kami akan terus memberikan pelayanan terbaik!}"
+  rating = 5
+
+[[params.testimonials]]
+  avatar = "/images/admin/avatar3.png"
+  name = "{Farhan|Toni|Agus|Reza|Ilham|Rian|Fadli|Rahmat|Dani|Yusuf}"
+  message = "{Layanan penjualan furniture dari creativedesigninterior.com sangat {memuaskan|terpercaya|profesional} untuk proyek {rumah|kantor|kafe} saya. Timnya {cepat tanggap|ramah|profesional} dan pengirimannya {cepat|tepat waktu|teratur}.|Saya memesan furniture untuk proyek {rumah|kafe} saya, dan layanannya {baik|profesional|memuaskan}. Pengirimannya {tepat waktu|rapi|cepat}.}"
+  response = "{Terima kasih! Kami berkomitmen untuk memberikan layanan terbaik bagi setiap proyek, termasuk proyek Anda.|Senang dapat melayani proyek Anda. Terima kasih atas kepercayaannya!}"
+  rating = 4
+
+[[params.testimonials]]
+  avatar = "/images/admin/avatar4.png"
+  name = "{Rian|Farhan|Toni|Agus|Reza|Ilham|Rahmat|Dani|Yusuf|Fadli}"
+  message = "{Saya sangat puas dengan layanan furniture dari creativedesigninterior.com. Prosesnya {efisien|lancar|mudah} dan {sangat membantu|mempercepat} pengerjaan proyek saya.|Produk dari creativedesigninterior.com {berkualitas|luar biasa|terbaik}, dan layanannya {cepat|efisien|ramah}. Sangat mendukung proyek saya.}"
+  response = "{Senang mendengar Anda puas dengan hasilnya. Terima kasih atas kepercayaannya dalam menggunakan layanan kami.|Terima kasih atas ulasannya. Kami sangat menghargai kepercayaan Anda pada layanan kami.}"
+  rating = 5
+
+[[params.testimonials]]
+  avatar = "/images/admin/avatar5.png"
+  name = "{Rara|Lina|Sinta|Dina|Aulia|Maya|Tina|Reni|Fina|Ari}"
+  message = "{Pelayanan creativedesigninterior.com sangat {membantu|bermanfaat|memudahkan} untuk proyek {rumah|kafe|kantor} saya. Solusi yang diberikan {tepat|efektif|memuaskan} dan produknya {berkualitas|bagus|terbaik}.|creativedesigninterior.com memberikan {solusi tepat|produk berkualitas} untuk proyek saya. Produk yang saya beli {berkualitas tinggi|bagus|terbaik}, dan layanannya {ramah|profesional|efisien}.}"
+  response = "{Terima kasih! Kami senang dapat membantu mewujudkan proyek Anda dengan produk interior terbaik.|Kami menghargai ulasan Anda. Terima kasih telah memilih creativedesigninterior.com untuk proyek Anda!}"
+  rating = 5
+
+[[params.testimonials]]
+  avatar = "/images/admin/avatar6.png"
+  name = "{Rahmat|Farhan|Agus|Toni|Ilham|Rian|Dani|Yusuf|Reza|Fadli}"
+  message = "{Saya memesan furniture untuk {ruang tamu|kantor|proyek bangunan}, dan hasilnya {sangat memuaskan|terbaik|luar biasa}. Layanan creativedesigninterior.com {sangat profesional|aman|terpercaya}.|creativedesigninterior.com {memberikan layanan profesional|berkualitas tinggi|sangat membantu} untuk proyek saya. Produk yang disediakan {berkualitas|bagus|sesuai harapan}, dan layanannya {memuaskan|profesional|terpercaya}.}"
+  response = "{Kami senang mendengar bahwa Anda puas dengan layanan kami. Terima kasih atas ulasannya!|Terima kasih atas ulasan positifnya. Kami akan terus memberikan layanan terbaik untuk setiap proyek Anda.}"
+  rating = 5
+
+[[params.products]]
+    name = "Pasir"
+[[params.products.items]]
+  item = "Pasir Cor"
+  price = "280.000 /m³"
+[[params.products.items]]
+  item = "Pasir Pasang"
+  price = "240.000 /m³"
+[[params.products.items]]
+  item = "Pasir Jalupang"
+  price = "280.000 /m³"
+[[params.products.items]]
+  item = "Pasir Cuci"
+  price = "270.000 /m³"
+[[params.products.items]]
+  item = "Pasir Rangkas"
+  price = "275.000 /m³"
+[[params.products.items]]
+  item = "Abu Batu / Pasir Abu"
+  price = "230.000 /m³"
+[[params.products.items]]
+  item = "Pasir Urug"
+  price = "190.000 /m³"
+
+[[params.products]]
+    name = "Batu"
+[[params.products.items]]
+  item = "Batu Split"
+  price = "250.000 /m³"
+[[params.products.items]]
+  item = "Batu Kali"
+  price = "231.000 /m³"
+[[params.products.items]]
+  item = "Urugan Sirtu / Berangkal"
+  price = "225.000 /m³"
+[[params.products.items]]
+  item = "Limestone / Batu Kapur"
+  price = "225.000 /m³"
+[[params.products.items]]
+  item = "Makadam / Basecose / Sirdam"
+  price = "250.000 /m³"
+
+[[params.products]]
+    name = "Bata dan Batako"
+[[params.products.items]]
+  item = "Batu Bata Standar"
+  price = "480 /buah"
+[[params.products.items]]
+  item = "Batu Bata Semi Jumbo"
+  price = "600 /buah"
+[[params.products.items]]
+  item = "Batu Bata Jumbo"
+  price = "760 /buah"
+[[params.products.items]]
+  item = "Batako Press 2 Lubang"
+  price = "2.600 /buah"
+[[params.products.items]]
+  item = "Batako Press 3 Lubang"
+  price = "2.800 /buah"
+[[params.products.items]]
+  item = "Hebel Putih SNI"
+  price = "580.000 /m³"
+
+[[params.products]]
+    name = "Beton Readymix"
+[[params.products.items]]
+  item = "Beton Readymix K225"
+  price = "840.000 /m³"
+[[params.products.items]]
+  item = "Beton Readymix K250"
+  price = "870.000 /m³"
+[[params.products.items]]
+  item = "Beton Readymix K300"
+  price = "900.000 /m³"
+[[params.products.items]]
+  item = "Beton Readymix K350"
+  price = "940.000 /m³"
+[[params.products.items]]
+  item = "Beton Readymix K400"
+  price = "1.090.000 /m³"
+
+[[params.products]]
+    name = "Aspal"
+[[params.products.items]]
+  item = "Aspal Hotmix"
+  price = "89.000 /m²"
+
+[[params.products]]
+    name = "Kitchen Set"
+[[params.products.items]]
+  item = "Kitchen set minimalis"
+  price = "1.900.000"
+
+[[params.products]]
+    name = "Lemari"
+[[params.products.items]]
+  item = "Lemari custom dan built-in"
+  price = "1.700.000"
+
+[[params.products]]
+    name = "Meja"
+[[params.products.items]]
+  item = "Meja kerja"
+  price = "1.200.000"
+[[params.products.items]]
+  item = "Meja makan"
+  price = "400.000"
+
+[[params.products]]
+    name = "Kursi dan Sofa"
+[[params.products.items]]
+  item = "Kursi custom"
+  price = "700.000"
+[[params.products.items]]
+  item = "Sofa custom"
+  price = "1.000.000"
+
+[[params.products]]
+    name = "Rak dan Kabinet"
+[[params.products.items]]
+  item = "Rak buku"
+  price = "1.700.000"
+[[params.products.items]]
+  item = "Kabinet custom"
+  price = "1.700.000"
+
+[[params.products]]
+    name = "Sewa Alat"
+[[params.products.items]]
+  item = "Truk Pasir"
+  price = "1.700.000 /hari"
+[[params.products.items]]
+  item = "Concrete Mixer"
+  price = "300.000 /hari"
+[[params.products.items]]
+  item = "Alat Pemotong Besi"
+  price = "250.000 /hari"
+[[params.products.items]]
+  item = "Mesin Las"
+  price = "170.000 /hari"
+[[params.products.items]]
+  item = "Excavator Mini"
+  price = "2.000.000 /hari"
+[[params.products.items]]
+  item = "Pompa Beton Standar/Mini 18m"
+  price = "3.500.000 /hari"
+[[params.products.items]]
+  item = "Pompa Beton Long Boom 23m"
+  price = "4.500.000 /hari"
+[[params.products.items]]
+  item = "Pompa Beton Super Long 28m"
+  price = "7.500.000 /hari"
+[[params.products.items]]
+  item = "Pompa Beton Master Long 50m"
+  price = "13.000.000 /hari"
+[[params.products.items]]
+  item = "Pompa Beton Kodok/Portable"
+  price = "7.500.000 /hari"
+
+  # Menu Section
+  [[params.menu_items]]
+    title = "Beranda"
+    url = "/"
+  [[params.menu_items]]
+    title = "Profile"
+    url = "/profile/"
+  [[params.menu_items]]
+    title = "Daftar Harga"
+    url = "/daftar-harga/"
+  [[params.menu_items]]
+    title = "TOS"
+    url = "/terms-of-service/"
+
+[params.header]
+   title = "Creative Design Interior - Jasa Kitchen Set & Bahan Bangunan | "
+   highlight = "CDI"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 3
+
+[related]
+  threshold = 80
+  includeNewer = true
+  toLower = false
+
+[[related.indices]]
+  name = "categories"
+  weight = 100
+
+[outputs]
+  home = ["HTML", "RSS"]
+  page = ["HTML", "AMP"]
+
+[outputFormats]
+  [outputFormats.AMP]
+    mediaType = "text/html"
+    baseName = "amp/index"
+    path = ""
+    isPlainText = false
+    permalinkable = true
+    rel = "amphtml"
