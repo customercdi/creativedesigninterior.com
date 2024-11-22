@@ -41,7 +41,7 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
     - name: Ensure CNAME exists
-      run: echo "sumbermaterial.com" > public/CNAME
+      run: echo "creativedesigninterior.com" > public/CNAME
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
